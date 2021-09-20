@@ -1,2 +1,2 @@
-# vealos
+# Vealos
 Toppbok til Vealøs
